@@ -12,7 +12,7 @@ public class MyClass {
         float f = 120.2f;
         double d = 14.56477;
         boolean bl = true;
-        char c = 'A';
+        char c = 'B';
         // Задание 3:
         int g = multiplyMethod(4,5,12,2);
         String z = "Результат выражения: ";
